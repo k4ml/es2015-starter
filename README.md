@@ -28,3 +28,6 @@ The generated `index_bundle.js` will be automatically injected into `index.html`
 
 Run `npm run server` will start an HTTP server at port 8080. Load `http://localhost:8080/` and open up the developer
 console. You should see the "hello world" message displayed.
+
+## Update
+Follow Telegram Channel https://telegram.me/devkini for latest news and updates.
