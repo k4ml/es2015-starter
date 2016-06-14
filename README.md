@@ -2,7 +2,9 @@ Starter repo to kickstart your ES2015 (ES6) based JavaScript project.
 
 ## Quickstart
 
-    git clone https://github.com/k4ml/es2015-starter.git
+Fork this repo to your account and then run the following:-
+
+    git clone https://github.com/YOURNAME/es2015-starter.git
 
     # Feel free to rename the directory and remove .git
     cd es2015-start
